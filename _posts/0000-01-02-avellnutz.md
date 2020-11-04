@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+This joke about the Fibonacci sequence is as bad as the previous two combined.
 Use the left arrow to go back!
